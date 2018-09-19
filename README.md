@@ -30,7 +30,7 @@ Minimal configuration to host a Django project at Heroku
 * git add .
 * git commit -m 'First commit'
 
-## Hidding instance configuration
+## Escondendo a configuração da instância
 * pip install python-decouple
 * create an .env file at the root path and insert the following variables
 - SECRET_KEY=Your$eCretKeyHere (Get this secrety key from the settings.py)
